@@ -12,6 +12,7 @@ class Enrollment < ApplicationRecord
         class_name: :Course
     })
     
+        
     # belongs_to()
     # has_many(:users, {
     #     primary_key: :id,
